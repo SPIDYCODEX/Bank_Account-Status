@@ -27,6 +27,6 @@ This is a simple console-based Bank Account project built using Python and Objec
    ```bash
    python main.py
 
-   --Author--
-   SPIDYCODEX
-   Learning and building one step from regret⏫☠
+##--Author--
+ SPIDYCODEX
+Learning and building one step from regret⏫☠
